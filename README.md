@@ -1,22 +1,20 @@
-## Hello, I am Anne 
+<h1 align="center"> Hello, I am Anne</h1>
 
-<h3 align="left">About me</h3>
+<h3 align="center">About me</h3>
 
-<p align="left">
+<p align="center">
   📍 Edjucation:  Computer Scientist<br>
   📍 Job:         Frontend Developer<br>
   📍 Mindset:     Lifelong Learning
 </p>
 
 
-## <h3 align="left">My Techs</h3>
+# <h3 align="center">My Techs</h3>
 
-
-
-<div display="flex" flex-direction="row">
+<div>
   <div>
-    <h4 align="left">Current focus:</h4>
-    <div align="left">
+    <h4 align="center">Current focus:</h4>
+    <div align="center">
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
         <img width="12" />
@@ -30,13 +28,10 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       </div>
       <img width="12" />
       <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-        <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -44,9 +39,9 @@
     </div>
   </div>
   <div>
-    <h4 align="left">Further knowledge:</h4>
+    <h4 align="center">Further knowledge:</h4>
     <div>
-      <div align="left">
+      <div align="center">
         <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
           <img width="12" />
